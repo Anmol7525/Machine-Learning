@@ -1,2 +1,2 @@
 # Machine-Learning
- All about done in Machine Learning.
+ All about, what is done in Machine Learning:)
